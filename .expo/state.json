@@ -1,0 +1,10 @@
+{
+  "uuid": "a368c039-050d-4100-ac8f-2c4169d979eb",
+  "analyticsDeviceId": "4b1ec5d6-4bb7-41f2-a371-985ca48cc5e2",
+  "auth": {
+    "sessionSecret": "{\"id\":\"582f307d-03f0-4892-95e4-0b2ecb486dbc\",\"version\":1,\"expires_at\":2071180800000}",
+    "userId": "7d8482d6-2c9a-483a-943b-727ce4b5c186",
+    "username": "tibeta",
+    "currentConnection": "Username-Password-Authentication"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "eas-cli": "^16.17.4",
+    "expo": "^53.0.20",
+    "metro": "^0.72.3",
+    "metro-cache": "^0.72.3"
+  }
+}
